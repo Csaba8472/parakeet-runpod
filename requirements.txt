@@ -1,0 +1,6 @@
+torch
+nemo_toolkit[asr]
+pydub
+ffmpeg-python
+requests
+runpod
